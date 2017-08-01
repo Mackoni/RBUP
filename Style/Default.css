@@ -1,0 +1,174 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #ffffff;
+    font: 82.5% "Trebuchet MS", sans-serif;
+    color: #333333;
+}
+
+.buttonLink
+    {
+        text-decoration: none;
+    }
+
+.xscroll{
+    overflow-x:scroll;
+}
+
+.panelH{
+    display:none;
+    opacity:0;
+    visibility:hidden;
+}
+
+.hiddenTB{
+    display:none;
+}
+
+input[type=text], textarea {
+    margin: 0px 2px 2px 2px;
+    border: 1px solid #808080;
+    padding: 3px;
+    width: 200px;
+    vertical-align:bottom;
+}
+
+textarea {
+    /*margin-left: 0px;*/
+}
+
+.label {
+    /*font-size: 1.3em;
+     text-align: right;*/ 
+
+    width: 70px; 
+    display: inline-block;
+    padding-left: 10px;
+    line-height:100%;
+}
+
+
+#navigationStripe {
+    width: 100%;
+    height: 32px;
+    text-indent: 10px;
+    /*border-bottom:1px solid #404040;*/
+    line-height: 32px;
+    padding-top: 2px;
+    /*font-size: 150%;*/
+    background-color: #78be42;
+}
+
+#navigationPanel {
+    width: 249px;
+    float: left;
+    min-height: calc(100vh - 25px);
+    text-indent: 10px;
+    border-right: 1px solid #404040;
+    font-size: 130%;
+}
+
+#contentPanel {
+    width: calc(100% - 270px);
+    float: right;
+    height: calc(100vh - 45px);
+    padding: 10px;
+    overflow-y: auto;
+}
+
+#logoutLink {
+    margin-right: 10px;
+    float: right;
+    text-decoration: none;
+}
+
+.demoHeaders {
+    margin-top: 2em;
+}
+
+#dialog-link {
+    padding: .4em 1em .4em 20px;
+    text-decoration: none;
+    position: relative;
+}
+
+    #dialog-link span.ui-icon {
+        margin: 0 5px 0 0;
+        position: absolute;
+        left: .2em;
+        top: 50%;
+        margin-top: -8px;
+    }
+
+#icons {
+    margin: 0;
+    padding: 0;
+}
+
+    #icons li {
+        margin: 2px;
+        position: relative;
+        padding: 4px 0;
+        cursor: pointer;
+        float: left;
+        list-style: none;
+    }
+
+    #icons span.ui-icon {
+        float: left;
+        margin: 0 4px;
+    }
+
+.fakewindowcontain .ui-widget-overlay {
+    position: absolute;
+}
+
+select {
+    width: 200px;
+}
+
+#logoutLink {
+    font-size: 100%;
+}
+
+#headerLabel {
+    color: #ffffff;
+}
+
+/*CSS klasa za dugme - slicicu !!!!!!!!!!!!*/
+    .iButton16x16 {
+        height: 20px;
+        width: 57px;
+        border-bottom: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background-color: transparent;
+        background-repeat: no-repeat;
+    }
+
+    .iEdit57x20 {
+                height: 20px;
+        width: 20px;
+        border-bottom: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background-color: transparent;
+        background-repeat: no-repeat;
+        cursor:pointer;
+        background-image: url("/images/Edit16x16.png");
+    }
+
+    .iConfirm16x16 {
+                height: 20px;
+        width: 20px;
+        border-bottom: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background-color: transparent;
+        background-repeat: no-repeat;
+        cursor:pointer;
+        background-image: url("/images/Confirm16x16.gif");
+    }

@@ -1,0 +1,124 @@
+M:\Dev\RBUP\RBUP\bin\roslyn\csc.exe
+M:\Dev\RBUP\RBUP\bin\roslyn\csc.exe.config
+M:\Dev\RBUP\RBUP\bin\roslyn\csc.rsp
+M:\Dev\RBUP\RBUP\bin\roslyn\csi.exe
+M:\Dev\RBUP\RBUP\bin\roslyn\csi.rsp
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Dev\RBUP\RBUP\bin\roslyn\System.AppContext.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\System.Collections.Immutable.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\System.Reflection.Metadata.dll
+M:\Dev\RBUP\RBUP\bin\roslyn\vbc.exe
+M:\Dev\RBUP\RBUP\bin\roslyn\vbc.exe.config
+M:\Dev\RBUP\RBUP\bin\roslyn\vbc.rsp
+M:\Dev\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe
+M:\Dev\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe.config
+M:\Dev\RBUP\RBUP\bin\RBUP.dll.config
+M:\Dev\RBUP\RBUP\bin\RBUP.dll
+M:\Dev\RBUP\RBUP\bin\RBUP.pdb
+M:\Dev\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Dev\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Dev\RBUP\RBUP\obj\Debug\RBUP.dll
+M:\Dev\RBUP\RBUP\obj\Debug\RBUP.pdb
+M:\Dev\RBUP\RBUP\obj\Debug\RBUP.csprojResolveAssemblyReference.cache
+M:\Dev\RBUP\RBUP\bin\AjaxControlToolkit.dll
+M:\Dev\RBUP\RBUP\bin\AjaxMin.dll
+M:\Dev\RBUP\RBUP\bin\ClosedXML.dll
+M:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.dll
+M:\Dev\RBUP\RBUP\bin\DocumentFormat.OpenXml.dll
+M:\Dev\RBUP\RBUP\bin\ClosedXML.pdb
+M:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.pdb
+M:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.xml
+M:\Dev\RBUP\RBUP\bin\DocumentFormat.OpenXml.xml
+D:\Dev\RBUP\RBUP\bin\roslyn\csc.exe
+D:\Dev\RBUP\RBUP\bin\roslyn\csc.exe.config
+D:\Dev\RBUP\RBUP\bin\roslyn\csc.rsp
+D:\Dev\RBUP\RBUP\bin\roslyn\csi.exe
+D:\Dev\RBUP\RBUP\bin\roslyn\csi.rsp
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dev\RBUP\RBUP\bin\roslyn\System.AppContext.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\System.Collections.Immutable.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dev\RBUP\RBUP\bin\roslyn\vbc.exe
+D:\Dev\RBUP\RBUP\bin\roslyn\vbc.exe.config
+D:\Dev\RBUP\RBUP\bin\roslyn\vbc.rsp
+D:\Dev\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe
+D:\Dev\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe.config
+D:\Dev\RBUP\RBUP\bin\RBUP.dll.config
+D:\Dev\RBUP\RBUP\bin\RBUP.dll
+D:\Dev\RBUP\RBUP\bin\RBUP.pdb
+D:\Dev\RBUP\RBUP\bin\AjaxControlToolkit.dll
+D:\Dev\RBUP\RBUP\bin\AjaxMin.dll
+D:\Dev\RBUP\RBUP\bin\ClosedXML.dll
+D:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.dll
+D:\Dev\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dev\RBUP\RBUP\bin\ClosedXML.pdb
+D:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.pdb
+D:\Dev\RBUP\RBUP\bin\HtmlAgilityPack.xml
+D:\Dev\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dev\RBUP\RBUP\obj\Debug\RBUP.dll
+D:\Dev\RBUP\RBUP\obj\Debug\RBUP.pdb
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\obj\Debug\RBUP.csprojResolveAssemblyReference.cache
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\obj\Debug\RBUP.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\obj\Debug\RBUP.pdb
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\csc.exe
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\csc.exe.config
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\csc.rsp
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\csi.exe
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\csi.rsp
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.AppContext.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\vbc.exe
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\vbc.exe.config
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\vbc.rsp
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\RBUP.dll.config
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\RBUP.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\RBUP.pdb
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\AjaxControlToolkit.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\AjaxMin.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\ClosedXML.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\HtmlAgilityPack.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\ClosedXML.pdb
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\HtmlAgilityPack.pdb
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\HtmlAgilityPack.xml
+C:\Users\nm250225\Documents\Visual Studio 2015\Projects\RBUP\RBUP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

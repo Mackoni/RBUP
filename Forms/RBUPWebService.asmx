@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="../Classes/RBUPWebService.cs" Class="RBUPWebService" %>
