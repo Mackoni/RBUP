@@ -92,6 +92,7 @@ namespace RBUP.Forms.Admin
                 try
                 {
                     SqlConnection sqlconn = new SqlConnection(conn_str);
+                    //test macak345sasdasdcv
                     SqlCommand sqlcomm = new SqlCommand("Parts_Save", sqlconn);
                     sqlcomm.CommandType = CommandType.StoredProcedure;
 
